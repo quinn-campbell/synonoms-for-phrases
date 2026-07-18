@@ -256,7 +256,7 @@ re=[`*verified by our intern, Derek`];function ie(e){return e[Math.floor(Math.ra
         .phrase-btn:hover { text-decoration: underline; text-decoration-color: rgba(193,18,31,0.4); text-decoration-thickness: 2px; text-underline-offset: 4px; }
         .phrase-btn.has-synonyms { cursor: pointer; }
       `},void 0,!1,{fileName:S,lineNumber:225,columnNumber:7},this),(0,x.jsxDEV)(`nav`,{className:`flex items-center justify-between px-6 py-4 md:px-12`,children:[(0,x.jsxDEV)(`div`,{className:`flex items-center gap-2.5`,children:[(0,x.jsxDEV)(`span`,{className:`text-xl font-black tracking-tight select-none`,style:{fontFamily:`'Fraunces', Georgia, serif`,color:`#780000`},children:`Synonyms`},void 0,!1,{fileName:S,lineNumber:247,columnNumber:11},this),(0,x.jsxDEV)(`span`,{className:`text-[10px] font-semibold uppercase tracking-widest px-2 py-0.5 rounded-full`,style:{background:`#003049`,color:`#fdf0d5`},children:`Beta`},void 0,!1,{fileName:S,lineNumber:253,columnNumber:11},this)]},void 0,!0,{fileName:S,lineNumber:246,columnNumber:9},this),(0,x.jsxDEV)(`div`,{className:`flex items-center gap-4`,children:[(0,x.jsxDEV)(`span`,{className:`text-xs font-medium hidden md:block`,style:{color:`#003049`,opacity:.45},children:`Backed by 0 linguists`},void 0,!1,{fileName:S,lineNumber:261,columnNumber:11},this),(0,x.jsxDEV)(`a`,{
-  href:`https://www.google.com/,
+  href:`https://www.jw.org/`,
   className:`px-4 py-2 rounded-full text-sm font-semibold hover:opacity-90 transition-opacity`,
   style:{
     background:`#003049`,
